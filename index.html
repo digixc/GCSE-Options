@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="style.css" type="text/css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script type="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
 </head>
 <body>
 
@@ -26,7 +27,7 @@
     </div>
     <div class="col-sm-8">
       <h2>The Course At a Glance</h2>
-      <h4><strong>MISSION:</strong> Equip students with logical and critical thinking skills necessary to succeed at A-level, the workplace or beyond.  </h4>
+      <h4><strong>MISSION:</strong> Equip students with logical and&nbsp;<span class="showdef" data-toggle="tooltip" data-placement="top" trigger="click hover" title="conceptualising, analysing, synthesising, and evaluating information">critical thinking </span>&nbsp;skills necessary to succeed at A-level, the workplace or beyond.  </h4>
       <p class='vision'><strong>You will:</strong> 
         <ul class='vision-list'>
           <li>study computing devices and systems and develop understanding on how they work. </li>
@@ -166,5 +167,11 @@
     </div>
   </div>
 </div>
+
+<script>
+$(document).ready(function(){
+  $('[data-toggle="tooltip"]').tooltip();
+});
+</script>
 </body>
 </html> 
