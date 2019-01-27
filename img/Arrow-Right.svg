@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1024px" height="768px" viewBox="0 0 1024 768">
+<clipPath id="cp1">
+<path d="M 0,0 L 1024,0 L1024,768 L 0,768 z M 0,0 L 1280,0 L 1280,960 L 0,960 z" fill-rule="evenodd">
+</path>
+</clipPath>
+<g clip-path="url(#cp1)">
+</g>
+<rect x="0" y="0" width="1280" height="960" opacity="1" fill="rgb(250,251,255)" fill-opacity="0" stroke="none">
+</rect>
+<text x="-111.05000305175781" y="5.412901704707025" style="font: normal 54.15913775999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="21.40677381818182" opacity="1" fill="#e8a664" stroke="none" transform="translate(512, 384) rotate(-10.56589014052707)">Analysis</text>
+<text x="-92.55000305175781" y="5.412901704707025" style="font: normal 54.15913775999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="21.40677381818182" opacity="1" fill="rgb(158,159,161)" fill-opacity="1" stroke="none" transform="translate(484, 334)">Design</text>
+<text x="-57.599998474121094" y="5.412901704707025" style="font: normal 54.15913775999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="21.40677381818182" opacity="1" fill="#e8a664" stroke="none" transform="translate(524, 434)">Test</text>
+<text x="-162.10000610351562" y="5.412901704707025" style="font: normal 54.15913775999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="21.40677381818182" opacity="1" fill="#9c6043" stroke="none" transform="translate(338, 458)">Opportunity</text>
+<text x="-141.93333435058594" y="5.412901704707025" style="font: normal 54.15913775999999px Verdana,Geneva,sans-serif" text-anchor="start" dy="21.40677381818182" opacity="1" fill="rgb(90,204,204)" fill-opacity="1" stroke="none" transform="translate(646, 362) rotate(80.64963693571067)">Evaluation</text>
+<text x="-60.20000076293945" y="2.7079568879999982" style="font: normal 27.079568879999997px Verdana,Geneva,sans-serif" text-anchor="start" dy="10.70338690909091" opacity="1" fill="rgb(158,159,161)" fill-opacity="1" stroke="none" transform="translate(388, 376) rotate(-11.31226799349029)">1001001</text>
+<text x="-51.599998474121094" y="2.7079568879999982" style="font: normal 27.079568879999997px Verdana,Geneva,sans-serif" text-anchor="start" dy="10.70338690909091" opacity="1" fill="rgb(158,159,161)" fill-opacity="1" stroke="none" transform="translate(552, 470)">101010</text>
+</svg>
