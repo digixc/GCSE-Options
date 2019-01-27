@@ -2,6 +2,10 @@
   background-color: #f4511e;
   color: #fff;
   padding: 25px 25px;
+  background-image: url("./img/GCSE-Options6.svg");
+  background-size:  50%;
+  background-repeat: no-repeat;
+  background-position: right;
 }
 
 .container-fluid {
@@ -51,6 +55,8 @@
 
 ul.vision-list li {
 padding: 5px;
+font-size: 1.2em;
+list-style-type: square;
 }
 
 p.vision {
@@ -74,4 +80,14 @@ font-size: 20px;
   position: relative;
   display: inline-block;
   border-bottom: 1px dotted black;
+}
+
+.tooltip {
+  font-family: Georgia;
+  font-size: 20px;
+}
+.tooltip .tooltip-inner {
+  background-color: #ffc;
+  color: #c00;
+  min-width: 250px;
 }

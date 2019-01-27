@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1024px" height="768px" viewBox="0 0 1024 768">
+<defs>
+<style type="text/css"> @import url(https://fonts.googleapis.com/css?family=Pacifico); </style>
+</defs>
+<clipPath id="cp2">
+<path d="M 0,0 L 1024,0 L1024,768 L 0,768 z M 0,0 L 1280,0 L 1280,960 L 0,960 z" fill-rule="evenodd">
+</path>
+</clipPath>
+<g clip-path="url(#cp2)">
+</g>
+<rect x="0" y="0" width="1280" height="960" opacity="1" fill="rgb(250,81,55)" fill-opacity="0.03" stroke="none">
+</rect>
+<text x="-327.2166748046875" y="8.775375839999995" style="font: normal 87.75375839999998px Pacifico" text-anchor="start" dy="34.68527999999999" opacity="1" fill="rgb(199,110,46)" fill-opacity="1" stroke="none" transform="translate(524, 392)">MachineLearning</text>
+<text x="-246.78334045410156" y="7.020300671999998" style="font: normal 70.20300671999999px Pacifico" text-anchor="start" dy="27.748223999999997" opacity="1" fill="rgb(108,157,163)" fill-opacity="1" stroke="none" transform="translate(526, 462)">ComputerScience</text>
+<text x="-128.4166717529297" y="5.2652255039999964" style="font: normal 52.65225503999999px Pacifico" text-anchor="start" dy="20.811168" opacity="1" fill="rgb(172,181,173)" fill-opacity="1" stroke="none" transform="translate(410, 316)">Automation</text>
+<text x="-96.3499984741211" y="5.2652255039999964" style="font: normal 52.65225503999999px Pacifico" text-anchor="start" dy="20.811168" opacity="1" fill="rgb(194,171,59)" fill-opacity="1" stroke="none" transform="translate(414, 268)">Robotics</text>
+<text x="-81.93333435058594" y="5.2652255039999964" style="font: normal 52.65225503999999px Pacifico" text-anchor="start" dy="20.811168" opacity="1" fill="rgb(108,157,163)" fill-opacity="1" stroke="none" transform="translate(420, 536)">Logical</text>
+<text x="-137.78334045410156" y="3.510150335999999" style="font: normal 35.101503359999995px Pacifico" text-anchor="start" dy="13.874111999999998" opacity="1" fill="rgb(165,166,199)" fill-opacity="1" stroke="none" transform="translate(678, 330)">PatternRecogniton</text>
+<text x="-106.26667022705078" y="3.510150335999999" style="font: normal 35.101503359999995px Pacifico" text-anchor="start" dy="13.874111999999998" opacity="1" fill="#e55b3f" stroke="none" transform="translate(478, 590)">DataMinining</text>
+<text x="-86.86666870117188" y="3.510150335999999" style="font: normal 35.101503359999995px Pacifico" text-anchor="start" dy="13.874111999999998" opacity="1" fill="rgb(199,110,46)" fill-opacity="1" stroke="none" transform="translate(466, 222)">Abstraction</text>
+<text x="-69.30000305175781" y="3.510150335999999" style="font: normal 35.101503359999995px Pacifico" text-anchor="start" dy="13.874111999999998" opacity="1" fill="rgb(194,171,59)" fill-opacity="1" stroke="none" transform="translate(486, 186)">Analytics</text>
+<text x="-62.016666412353516" y="3.510150335999999" style="font: normal 35.101503359999995px Pacifico" text-anchor="start" dy="13.874111999999998" opacity="1" fill="rgb(165,166,199)" fill-opacity="1" stroke="none" transform="translate(654, 366)">Internet</text>
+<text x="-64.38333129882812" y="3.510150335999999" style="font: normal 35.101503359999995px Pacifico" text-anchor="start" dy="13.874111999999998" opacity="1" fill="rgb(165,166,199)" fill-opacity="1" stroke="none" transform="translate(530, 156) rotate(18.83767717100897)">BigData</text>
+<text x="-36.599998474121094" y="3.510150335999999" style="font: normal 35.101503359999995px Pacifico" text-anchor="start" dy="13.874111999999998" opacity="1" fill="rgb(108,157,163)" fill-opacity="1" stroke="none" transform="translate(496, 366)">Web</text>
+<text x="-44.650001525878906" y="1.7550751679999994" style="font: normal 17.550751679999998px Pacifico" text-anchor="start" dy="6.937055999999999" opacity="1" fill="#e55b3f" stroke="none" transform="translate(436, 436)">Technologies</text>
+<text x="-44.04999923706055" y="1.7550751679999994" style="font: normal 17.550751679999998px Pacifico" text-anchor="start" dy="6.937055999999999" opacity="1" fill="rgb(219,167,89)" fill-opacity="1" stroke="none" transform="translate(354, 500)">Information</text>
+</svg>

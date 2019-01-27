@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1024px" height="768px" viewBox="0 0 1024 768">
+<defs>
+<style type="text/css"> @import url(https://fonts.googleapis.com/css?family=Pacifico); </style>
+</defs>
+<clipPath id="cp1">
+<path d="M 0,0 L 1024,0 L1024,768 L 0,768 z M 0,0 L 1280,0 L 1280,960 L 0,960 z" fill-rule="evenodd">
+</path>
+</clipPath>
+<g clip-path="url(#cp1)">
+</g>
+<rect x="0" y="0" width="1280" height="960" opacity="1" fill="rgb(250,79,31)" fill-opacity="1" stroke="none">
+</rect>
+<text x="-297.4166564941406" y="6.4745855999999975" style="font: normal 64.745856px Pacifico" text-anchor="start" dy="25.591247430830045" opacity="1" fill="#fff0a5" stroke="none" transform="translate(512, 382)">Artificail-Intelligence</text>
+<text x="-131.61666870117188" y="5.395488" style="font: normal 53.95488px Pacifico" text-anchor="start" dy="21.3260395256917" opacity="1" fill="#fff0a5" stroke="none" transform="translate(524, 462) rotate(-21.74295118617616)">Automation</text>
+<text x="-89.06666564941406" y="5.395488" style="font: normal 53.95488px Pacifico" text-anchor="start" dy="21.3260395256917" opacity="1" fill="rgb(109,124,186)" fill-opacity="1" stroke="none" transform="translate(484, 322)">Robotic</text>
+<text x="-144.51666259765625" y="4.315284824707032" style="font: normal 43.163904px Pacifico" text-anchor="start" dy="17.060831620553362" opacity="1" fill="#468966" stroke="none" transform="translate(492, 270)">ProblemSolving</text>
+<text x="-106.81666564941406" y="4.315284824707032" style="font: normal 43.163904px Pacifico" text-anchor="start" dy="17.060831620553362" opacity="1" fill="#fff0a5" stroke="none" transform="translate(570, 522)">Abstraction</text>
+<text x="-96.33333587646484" y="4.315284824707032" style="font: normal 43.163904px Pacifico" text-anchor="start" dy="17.060831620553362" opacity="1" fill="#b64926" stroke="none" transform="translate(400, 434)">Computers</text>
+<text x="-110.68333435058594" y="3.2372927999999987" style="font: normal 32.372928px Pacifico" text-anchor="start" dy="12.795623715415022" opacity="1" fill="#b64926" stroke="none" transform="translate(500, 230)">CriticalThinking</text>
+<text x="-98.73332977294922" y="3.2372927999999987" style="font: normal 32.372928px Pacifico" text-anchor="start" dy="12.795623715415022" opacity="1" fill="rgb(109,124,186)" fill-opacity="1" stroke="none" transform="translate(672, 314)">Computational</text>
+<text x="-131.0500030517578" y="3.2372927999999987" style="font: normal 32.372928px Pacifico" text-anchor="start" dy="12.795623715415022" opacity="1" fill="#ffb03b" stroke="none" transform="translate(688, 482)">PatternRecognition</text>
+<text x="-110.98332977294922" y="3.2372927999999987" style="font: normal 32.372928px Pacifico" text-anchor="start" dy="12.795623715415022" opacity="1" fill="rgb(109,124,186)" fill-opacity="1" stroke="none" transform="translate(420, 546)">ComputerGames</text>
+<text x="-47.25" y="2.1581951999999998" style="font: normal 21.581952px Pacifico" text-anchor="start" dy="8.530415810276681" opacity="1" fill="#468966" stroke="none" transform="translate(346, 330)">Analytical</text>
+<text x="-33.58333206176758" y="2.1581951999999998" style="font: normal 21.581952px Pacifico" text-anchor="start" dy="8.530415810276681" opacity="1" fill="rgb(109,124,186)" fill-opacity="1" stroke="none" transform="translate(512, 418)">Logical</text>
+<text x="-53.54999923706055" y="2.1581951999999998" style="font: normal 21.581952px Pacifico" text-anchor="start" dy="8.530415810276681" opacity="1" fill="#fff0a5" stroke="none" transform="translate(664, 454)">10100011011</text>
+<text x="-70.8499984741211" y="2.1581951999999998" style="font: normal 21.581952px Pacifico" text-anchor="start" dy="8.530415810276681" opacity="1" fill="#468966" stroke="none" transform="translate(606, 554)">SuperComputer</text>
+<text x="-26.08333396911621" y="2.1581951999999998" style="font: normal 21.581952px Pacifico" text-anchor="start" dy="8.530415810276681" opacity="1" fill="#fff0a5" stroke="none" transform="translate(368, 306)">Cloud</text>
+<text x="-22.46666717529297" y="2.1581951999999998" style="font: normal 21.581952px Pacifico" text-anchor="start" dy="8.530415810276681" opacity="1" fill="#fff0a5" stroke="none" transform="translate(410, 362)">Web</text>
+<text x="-43.650001525878906" y="2.1581951999999998" style="font: normal 21.581952px Pacifico" text-anchor="start" dy="8.530415810276681" opacity="1" fill="#ffb03b" stroke="none" transform="translate(362, 482) rotate(-5.545831494925925)">110111000</text>
+<text x="-32.016666412353516" y="1.0790975999999999" style="font: normal 10.790976px Pacifico" text-anchor="start" dy="4.2652079051383405" opacity="1" fill="#b64926" stroke="none" transform="translate(432, 462)">CyberSecurity</text>
+</svg>

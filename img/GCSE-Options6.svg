@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1024px" height="768px" viewBox="0 0 1024 768">
+<clipPath id="cp9">
+<path d="M 0,0 L 1024,0 L1024,768 L 0,768 z M 0,0 L 1280,0 L 1280,960 L 0,960 z" fill-rule="evenodd">
+</path>
+</clipPath>
+<g clip-path="url(#cp9)">
+</g>
+<rect x="0" y="0" width="1280" height="960" opacity="1" fill="rgb(250,81,55)" fill-opacity="0.03" stroke="none">
+</rect>
+<text x="-264.79998779296875" y="5.161991833599998" style="font: normal 51.619918336000005px Verdana,Geneva,sans-serif" text-anchor="start" dy="20.4031297770751" opacity="1" fill="rgb(237,195,43)" fill-opacity="1" stroke="none" transform="translate(510, 382)">Artificial Intelligence</text>
+<text x="-208.86666870117188" y="5.161991833599998" style="font: normal 51.619918336000005px Verdana,Geneva,sans-serif" text-anchor="start" dy="20.4031297770751" opacity="1" fill="rgb(194,171,59)" fill-opacity="1" stroke="none" transform="translate(490, 228) rotate(36.41994494813979)">Critical Thinking</text>
+<text x="-210.0500030517578" y="5.161991833599998" style="font: normal 51.619918336000005px Verdana,Geneva,sans-serif" text-anchor="start" dy="20.4031297770751" opacity="1" fill="rgb(108,157,163)" fill-opacity="1" stroke="none" transform="translate(522, 426)">Problem Solving</text>
+<text x="-201.56666564941406" y="5.161991833599998" style="font: normal 51.619918336000005px Verdana,Geneva,sans-serif" text-anchor="start" dy="20.4031297770751" opacity="1" fill="rgb(172,181,173)" fill-opacity="1" stroke="none" transform="translate(664, 524) rotate(-43.15528154180312)">Neural Network</text>
+<text x="-191.11666870117188" y="5.161991833599998" style="font: normal 51.619918336000005px Verdana,Geneva,sans-serif" text-anchor="start" dy="20.4031297770751" opacity="1" fill="rgb(219,167,89)" fill-opacity="1" stroke="none" transform="translate(508, 466)">Cyber Security</text>
+<text x="-149.64999389648438" y="5.161991833599998" style="font: normal 51.619918336000005px Verdana,Geneva,sans-serif" text-anchor="start" dy="20.4031297770751" opacity="1" fill="rgb(194,171,59)" fill-opacity="1" stroke="none" transform="translate(442, 338)">Automation</text>
+<text x="-82.0999984741211" y="3.8714938751999988" style="font: normal 38.714938752px Verdana,Geneva,sans-serif" text-anchor="start" dy="15.302347332806326" opacity="1" fill="rgb(194,171,59)" fill-opacity="1" stroke="none" transform="translate(458, 304)">Robotics</text>
+<text x="-66.9000015258789" y="3.8714938751999988" style="font: normal 38.714938752px Verdana,Geneva,sans-serif" text-anchor="start" dy="15.302347332806326" opacity="1" fill="rgb(165,166,199)" fill-opacity="1" stroke="none" transform="translate(520, 506) rotate(17.72003245645774)">Logical</text>
+<text x="-170.18333435058594" y="3.8714938751999988" style="font: normal 38.714938752px Verdana,Geneva,sans-serif" text-anchor="start" dy="15.302347332806326" opacity="1" fill="rgb(172,181,173)" fill-opacity="1" stroke="none" transform="translate(326, 268)">Machine Learning</text>
+<text x="-86.0999984741211" y="3.8714938751999988" style="font: normal 38.714938752px Verdana,Geneva,sans-serif" text-anchor="start" dy="15.302347332806326" opacity="1" fill="rgb(237,195,43)" fill-opacity="1" stroke="none" transform="translate(602, 200) rotate(-71.0827231444391)">1001001</text>
+<text x="-127.13333129882812" y="2.580995916799999" style="font: normal 25.809959168000002px Verdana,Geneva,sans-serif" text-anchor="start" dy="10.20156488853755" opacity="1" fill="rgb(194,171,59)" fill-opacity="1" stroke="none" transform="translate(486, 548)">Pattern Recognition</text>
+<text x="-119.11666870117188" y="2.580995916799999" style="font: normal 25.809959168000002px Verdana,Geneva,sans-serif" text-anchor="start" dy="10.20156488853755" opacity="1" fill="rgb(165,166,199)" fill-opacity="1" stroke="none" transform="translate(354, 232)">Internet Of Things</text>
+<text x="-89.05000305175781" y="2.580995916799999" style="font: normal 25.809959168000002px Verdana,Geneva,sans-serif" text-anchor="start" dy="10.20156488853755" opacity="1" fill="rgb(165,166,199)" fill-opacity="1" stroke="none" transform="translate(680, 304) rotate(18.83767717100897)">Data Minining</text>
+<text x="-93.88333129882812" y="2.580995916799999" style="font: normal 25.809959168000002px Verdana,Geneva,sans-serif" text-anchor="start" dy="10.20156488853755" opacity="1" fill="rgb(108,157,163)" fill-opacity="1" stroke="none" transform="translate(492, 572)">Deep Learning</text>
+<text x="-73.23332977294922" y="2.580995916799999" style="font: normal 25.809959168000002px Verdana,Geneva,sans-serif" text-anchor="start" dy="10.20156488853755" opacity="1" fill="rgb(129,206,230)" fill-opacity="1" stroke="none" transform="translate(424, 520)">Abstraction</text>
+<text x="-57.95000076293945" y="2.580995916799999" style="font: normal 25.809959168000002px Verdana,Geneva,sans-serif" text-anchor="start" dy="10.20156488853755" opacity="1" fill="rgb(219,167,89)" fill-opacity="1" stroke="none" transform="translate(660, 256)">Analytics</text>
+<text x="-52.79999923706055" y="2.580995916799999" style="font: normal 25.809959168000002px Verdana,Geneva,sans-serif" text-anchor="start" dy="10.20156488853755" opacity="1" fill="rgb(237,195,43)" fill-opacity="1" stroke="none" transform="translate(600, 496)">Internet</text>
+<text x="-50.93333435058594" y="2.580995916799999" style="font: normal 25.809959168000002px Verdana,Geneva,sans-serif" text-anchor="start" dy="10.20156488853755" opacity="1" fill="rgb(194,171,59)" fill-opacity="1" stroke="none" transform="translate(526, 196)">BigData</text>
+<text x="-28.46666717529297" y="2.580995916799999" style="font: normal 25.809959168000002px Verdana,Geneva,sans-serif" text-anchor="start" dy="10.20156488853755" opacity="1" fill="rgb(194,171,59)" fill-opacity="1" stroke="none" transform="translate(674, 344) rotate(85.25886569957929)">Web</text>
+<text x="-41.95000076293945" y="1.2904979583999996" style="font: normal 12.904979584000001px Verdana,Geneva,sans-serif" text-anchor="start" dy="5.100782444268775" opacity="1" fill="rgb(172,181,173)" fill-opacity="1" stroke="none" transform="translate(638, 212) rotate(-47.07199801673253)">Technologies</text>
+<text x="-38.16666793823242" y="1.2904979583999996" style="font: normal 12.904979584000001px Verdana,Geneva,sans-serif" text-anchor="start" dy="5.100782444268775" opacity="1" fill="rgb(165,166,199)" fill-opacity="1" stroke="none" transform="translate(318, 484) rotate(62.212959833041715)">Information</text>
+<text x="-45.099998474121094" y="1.2904979583999996" style="font: normal 12.904979584000001px Verdana,Geneva,sans-serif" text-anchor="start" dy="5.100782444268775" opacity="1" fill="rgb(209,158,104)" fill-opacity="1" stroke="none" transform="translate(392, 252)">10101100110</text>
+</svg>
